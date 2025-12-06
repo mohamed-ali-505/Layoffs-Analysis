@@ -11,7 +11,7 @@ A comprehensive analysis of global layoff trends from 2020 to 2023, examining pa
 
 This project analyzes workforce reduction trends across multiple dimensions to understand the impact of economic shifts on various sectors. The analysis reveals that **2022 was the peak year for layoffs**, with significant variations across industries and geographies.
 
-<img width="1306" height="733" alt="1 Overview" src="https://github.com/user-attachments/assets/7eaea7fe-b92a-45fb-991e-0f3b9a4c4c5b" />
+<img width="1283" height="720" alt="Screenshot 2025-12-06 at 2 22 21 AM" src="https://github.com/user-attachments/assets/f53232be-6bd5-4011-b16a-a0761e3c5f61" />
 
 
 **Key Metrics:**
@@ -62,7 +62,7 @@ layoffs-analysis/
 
 🛠️ Technologies Used
 
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img width="1283" height="720" alt="Screenshot 2025-12-06 at 2 22 21 AM" src="https://github.com/user-attachments/assets/a8f7c3ec-c323-446d-a9c2-c74e5847ab54" />
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> <img src="https://img.shields.io/badge/Data_Modeling-FF6B6B?style=for-the-badge" alt="Data Modeling"> </p>
 
 
 ## 📈 Key Insights
