@@ -201,7 +201,7 @@ Industry Shifts from Travel (2020) to Tech (2022-2023)
 
 
 Data Model
-<img width="1391" height="736" alt="Data Model" src="https://github.com/user-attachments/assets/db85b803-cda9-45bc-8510-fdfd26c8198c" />
+<img width="1364" height="802" alt="Screenshot 2025-12-06 at 3 17 53 AM" src="https://github.com/user-attachments/assets/a2f6cf4f-47a8-44c6-8a84-01bfe22941af" />
 
 Star schema implementation with fact and dimension tables
 
