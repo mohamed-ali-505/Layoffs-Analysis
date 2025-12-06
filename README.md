@@ -24,7 +24,7 @@ This project analyzes workforce reduction trends across multiple dimensions to u
 
 ```bash
 # Clone repository
-git clone https://github.com/loayaymaan/layoffs-analysis.git
+git clone https://github.com/mohamed-ali-505/layoffs-analysis.git
 cd layoffs-analysis
 
 # Import SQL scripts into MySQL
@@ -159,7 +159,7 @@ Step-by-Step Setup
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/layoffs-analysis.git
+git clone https://github.com/mohamed-ali-505/layoffs-analysis.git
 cd layoffs-analysis
 ```
 
